@@ -1,0 +1,11 @@
+ctransformers==0.2.5
+sentence-transformers
+pinecone
+langchain==0.3
+langchain-community
+langchain-pinecone
+langchain-huggingface
+flask
+pypdf
+python-dotenv
+-e .
