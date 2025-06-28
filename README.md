@@ -54,20 +54,3 @@ python app.py
 
 ---
 
-## 📁 Static Assets
-
-Place chatbot and user icons in the `static/images/` folder. For example:
-
-```
-static/images/chatbot.png
-static/images/user.png
-```
-
-Make sure they are properly referenced in your HTML or JavaScript.
-
----
-
-## 📌 Notes
-
-- Ensure your data sources are trustworthy if integrating your own medical documents.
-- This tool is for educational/demo purposes and is **not a substitute for professional medical advice**.
